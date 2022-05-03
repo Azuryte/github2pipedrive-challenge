@@ -2,7 +2,8 @@ import threading
 from pipedrive.client import Client
 from github import Github
 
-github = Github("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")
+gat = input("GitHub Access Token: ")
+github = Github(gat)
 
 client = Client(domain='https://test-sandbox29.pipedrive.com/')
 client.set_api_token('274382c0a6297664a76826b213d7d58c8ee65717')
