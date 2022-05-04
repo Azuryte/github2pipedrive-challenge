@@ -2,7 +2,7 @@ name: base
 channels:
   - defaults
 dependencies:
-  - pip:
+  - pip==22.0.4:
     - pipedrive-python-lib==1.1.5
     - pysocks==1.7.1=py39hecd8cb5_0
     - ca-certificates==2021.7.5=hecd8cb5_1
