@@ -9,8 +9,8 @@ dependencies:
   - idna
   - numpy
   - pip
-  - pipedrive
-  - pipedrive-python-lib
+  - pipedrive-python-lib:
+    - git+https://github.com/GearPlug/pipedrive-python
   - pycparser
   - PyGithub
   - PyJWT
