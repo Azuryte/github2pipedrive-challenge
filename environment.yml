@@ -1,1 +1,22 @@
+name: environment
 
+dependencies:
+  - python=3.8
+  - certifi
+  - cffi
+  - charset-normalizer
+  - Deprecated
+  - idna
+  - numpy
+  - pip
+  - pipedrive
+  - pipedrive-python-lib
+  - pycparser
+  - PyGithub
+  - PyJWT
+  - PyNaCl
+  - requests
+  - setuptools
+  - urllib3
+  - wrapt
+  
