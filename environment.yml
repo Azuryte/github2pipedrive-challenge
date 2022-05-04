@@ -4,7 +4,6 @@ channels:
 dependencies:
   - pip:
     - pipedrive-python-lib==1.1.5
-    - pysocks==1.7.1=py39hecd8cb5_0
     - ca-certificates==2021.7.5=hecd8cb5_1
     - cffi==1.14.6=py39h2125817_0
     - brotlipy==0.7.0=py39h9ed2024_1003
